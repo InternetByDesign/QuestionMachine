@@ -1,0 +1,3914 @@
+[
+{
+    "question": "How many siblings do you have?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s something you\u2019ve won and how did you win it?",
+    "category": "1"
+},
+{
+    "question": "What room in your house best reflects your personality? Explain why.",
+    "category": "1"
+},
+{
+    "question": "What is your most unusual nighttime or morning ritual?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the first thing that comes to mind when you hear the word \u201cfun\u201d?",
+    "category": "1"
+},
+{
+    "question": "When you leave a room, do you turn the lights off behind you or keep the lights on throughout your house most of the time? Explain your answer.",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the best New Year\u2019s resolution you\u2019ve ever made?",
+    "category": "1"
+},
+{
+    "question": "When you travel, do you pack too much or too little? Explain.",
+    "category": "1"
+},
+{
+    "question": "When relaxing on the floor, do you sit crosslegged, fold your legs to one side, sit with your legs straight out in front of you, or recline?",
+    "category": "1"
+},
+{
+    "question": "Which movies have you watched over and over again?",
+    "category": "1"
+},
+{
+    "question": "To feel rested, how many hours of sleep do you need each night?",
+    "category": "1"
+},
+{
+    "question": "What sound drives you crazy?",
+    "category": "1"
+},
+{
+    "question": " Are you a hugger or a non-hugger? Why?",
+    "category": "1"
+},
+{
+    "question": "Star Wars or Star Trek?",
+    "category": "1"
+},
+{
+    "question": "If money was no object, what would you do all day?",
+    "category": "1"
+},
+{
+    "question": "If you could live anywhere, where would it be?",
+    "category": "1"
+},
+{
+    "question": "What motivates you to work hard?",
+    "category": "1"
+},
+{
+    "question": "Do you squeeze the toothpaste tube or roll it? What\u2019s the advantage of your method?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s something you intended to do today, but didn\u2019t? Why not?",
+    "category": "1"
+},
+{
+    "question": "How often do you doodle? What do your doodles usually look like?",
+    "category": "1"
+},
+{
+    "question": "On a scale of 1 to 10, how well do you sing?",
+    "category": "1"
+},
+{
+    "question": "When you\u2019re alone at home, do you wear shoes, socks, slippers, or go barefoot?",
+    "category": "1"
+},
+{
+    "question": "Who\u2019s the most famous person you have ever met? What famous person would you most like to meet?",
+    "category": "1"
+},
+{
+    "question": "When\u2019s the last time you had to give a speech? How did it go?",
+    "category": "1"
+},
+{
+    "question": "At amusement parks, are you drawn more to the scariest roller coaster or the tamest merry-go-round? Why?",
+    "category": "1"
+},
+{
+    "question": "What is something mischievous you have done?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s your strongest sense?",
+    "category": "1"
+},
+{
+    "question": "When something is funny, do you usually laugh raucously, hiss, snort, chuckle quietly to yourself, or smile and nudge the person next to you?",
+    "category": "1"
+},
+{
+    "question": "Who\u2019s the smartest person you know?",
+    "category": "1"
+},
+{
+    "question": "What drives you crazy?",
+    "category": "1"
+},
+{
+    "question": "Are you a leader or a follower? How do you know?",
+    "category": "1"
+},
+{
+    "question": "Are you usually late, early, or on time? Why?",
+    "category": "1"
+},
+{
+    "question": "What's one of your hobbies?",
+    "category": "1"
+},
+{
+    "question": "How mechanically inclined do you consider yourself? Give an example.",
+    "category": "1"
+},
+{
+    "question": "How many different conversations can you adequately carry on at the same time?",
+    "category": "1"
+},
+{
+    "question": "On a scale of 1 to 10, how computer savvy are you? Explain.",
+    "category": "1"
+},
+{
+    "question": "What time do you usually wake up in the morning? Do you awaken naturally or need an alarm?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite ice-cream brand and flavor?",
+    "category": "1"
+},
+{
+    "question": "What's your all-time favorite meal, and how often do you enjoy it?",
+    "category": "1"
+},
+{
+    "question": "What's your all-time favorite movie, and how many times have you seen it?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite board game? Do you usually win?",
+    "category": "1"
+},
+{
+    "question": "What is your favorite style of music, and how often do you listen to it?",
+    "category": "1"
+},
+{
+    "question": "What's your preferred method of getting the news?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite color? Why?",
+    "category": "1"
+},
+{
+    "question": "Of all the tools and gadgets you own, which one do you most enjoy using?",
+    "category": "1"
+},
+{
+    "question": "When you go to a movie, do you like to sit in the back, middle, or front? Why?",
+    "category": "1"
+},
+{
+    "question": "Where's your favorite spot from which to view the sunrise or sunset?",
+    "category": "1"
+},
+{
+    "question": "What's your most and least preferred forms of exercise? Explain.",
+    "category": "1"
+},
+{
+    "question": "Growing up, what was your favorite fairy tale or children's story? Why?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite spectator sport, and how often do you watch it?",
+    "category": "1"
+},
+{
+    "question": "What's one of your favorite summer activities to do with family or friends?",
+    "category": "1"
+},
+{
+    "question": "What are your favorite summer and winter sports?",
+    "category": "1"
+},
+{
+    "question": "Who's your favorite comedian?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite fast-food restaurant and how often do you go there?",
+    "category": "1"
+},
+{
+    "question": "What's the name of your favorite magazine? What do you like most about it?",
+    "category": "1"
+},
+{
+    "question": "What's the worst movie you'se ever seen, and who did you see it with?",
+    "category": "1"
+},
+{
+    "question": "What's your favorite season of the year? Why?",
+    "category": "1"
+},
+{
+    "question": "Do you prefer window or aisle?",
+    "category": "1"
+},
+{
+    "question": "Growing up, what was your favorite comic strip?",
+    "category": "1"
+},
+{
+    "question": "If you could only eat one thing for the rest of your life, what would it be?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the weirdest thing you\u2019ve ever eaten?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s your go-to comfort food?",
+    "category": "1"
+},
+{
+    "question": "Are there any foods that you absolutely would not eat?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s something that\u2019s easy to bring in for lunch that isn\u2019t a sandwich?",
+    "category": "1"
+},
+{
+    "question": "Does your family have any \u201csecret\u201d or famous recipes?",
+    "category": "1"
+},
+{
+    "question": "If you were in charge of picking the eighth wonder of the world, what would you choose?",
+    "category": "1"
+},
+{
+    "question": "What do you wish you had placed in a time capsule 15 years ago?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the strangest compliment you\u2019ve ever gotten?",
+    "category": "1"
+},
+{
+    "question": "Have you ever thought of a cool invention or company, only to discover someone had already invented or started it?",
+    "category": "1"
+},
+{
+    "question": "If you could teach a college course on any subject you want, what would it be?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the most out-of-character thing you\u2019ve ever done?",
+    "category": "1"
+},
+{
+    "question": "What would be your ideal superpower?",
+    "category": "1"
+},
+{
+    "question": "If you could have any type of animal for a pet, what would it be?",
+    "category": "1"
+},
+{
+    "question": "What would you sing at Karaoke night?",
+    "category": "1"
+},
+{
+    "question": "Which would you rather do: wash dishes, mow the lawn, clean the bathroom, or vacuum the house?",
+    "category": "1"
+},
+{
+    "question": "How many pairs of shoes do you own?",
+    "category": "1"
+},
+{
+    "question": "Do you love or hate rollercoasters?",
+    "category": "1"
+},
+{
+    "question": "On a scale of 1-10 how funny would you say you are?",
+    "category": "1"
+},
+{
+    "question": "How many languages do you speak?",
+    "category": "1"
+},
+{
+    "question": "What is your to go question to kill awkward silence",
+    "category": "1"
+},
+{
+    "question": "Do you like pineapple on your pizza?",
+    "category": "1"
+},
+{
+    "question": "Given the choice of anyone in the world, whom would you want as a dinner guest?",
+    "category": "1"
+},
+{
+    "question": "At which store would you like to max-out your credit card?",
+    "category": "1"
+},
+{
+    "question": "What was your favorite TV show when growing up?",
+    "category": "1"
+},
+{
+    "question": "How old is the oldest pair of shoes in your closet?",
+    "category": "1"
+},
+{
+    "question": "What is your favorite cereal?",
+    "category": "1"
+},
+{
+    "question": "Which way does your toilet paper hang on the wall \u2013 over or under?",
+    "category": "1"
+},
+{
+    "question": "Do spelling and grammar mistakes annoy\u00a0you?",
+    "category": "1"
+},
+{
+    "question": "What would you name your boat if you had one?",
+    "category": "1"
+},
+{
+    "question": "What is the craziest thing one of your teachers has done?",
+    "category": "1"
+},
+{
+    "question": "What is the dumbest way you\u2019ve been injured?",
+    "category": "1"
+},
+{
+    "question": "What\u2019s the most useless talent you have?",
+    "category": "1"
+},
+{
+    "question": "What scene from a TV show will you never forget?",
+    "category": "1"
+},
+{
+    "question": "What technology from science fiction do you wish existed?",
+    "category": "1"
+},
+{
+    "question": "What job would you be absolutely terrible at?",
+    "category": "1"
+},
+{
+    "question": "What mildly annoying curse do you wish you could curse people with?",
+    "category": "1"
+},
+{
+    "question": "What is the funniest doomsday device a super villain could threaten the world with?",
+    "category": "1"
+},
+{
+    "question": "If animals could talk, which would be the rudest?",
+    "category": "1"
+},
+{
+    "question": "Which body part do you wish you could detach and why?",
+    "category": "1"
+},
+{
+    "question": "Where\u2019s the weirdest place you\u2019ve found something that you lost?",
+    "category": "1"
+},
+{
+    "question": "Do you save old greeting cards and letters, or throw them all away? Why?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s something you should throw away, but can\u2019t? Explain.",
+    "category": "2"
+},
+{
+    "question": "What\u2019s something valuable that you accidentally dropped and broke? Describe the situation.",
+    "category": "2"
+},
+{
+    "question": "What makes you tick?",
+    "category": "2"
+},
+{
+    "question": "Are you serious-minded or a jokester? Why?",
+    "category": "2"
+},
+{
+    "question": "Are you more likely to avoid conflict or engage in it head-on? Why?",
+    "category": "2"
+},
+{
+    "question": "What was the most recent compliment you received and savoured?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s something about yourself that you hope will change, but that probably never will?",
+    "category": "2"
+},
+{
+    "question": "Would you describe yourself as an extrovert or an introvert? Give an example.",
+    "category": "2"
+},
+{
+    "question": "Would you describe yourself as more of a feeler or a thinker? Why?",
+    "category": "2"
+},
+{
+    "question": "Are you a creature of habit? Explain your answer.",
+    "category": "2"
+},
+{
+    "question": "In what situations are you most likely to pro-crastinate?",
+    "category": "2"
+},
+{
+    "question": "How much poetry have you written in your life?",
+    "category": "2"
+},
+{
+    "question": "How do you typically react in a sudden, extreme, pressure-filled crisis?",
+    "category": "2"
+},
+{
+    "question": "Are you a person who has a whole lot of acquaintances or just a few very close friends? Why?",
+    "category": "2"
+},
+{
+    "question": "Are you superstitious? Give an example.",
+    "category": "2"
+},
+{
+    "question": "Do you have a collection? If so, what do you collect and why?",
+    "category": "2"
+},
+{
+    "question": "Do you tend to save everything or toss everything? Why?",
+    "category": "2"
+},
+{
+    "question": "How absentminded do you get? Give an example.",
+    "category": "2"
+},
+{
+    "question": "Which is better: your short-term or your long-term memory?",
+    "category": "2"
+},
+{
+    "question": "Are you more inclined to 'build your own empire? or 'bnleash the potential of others?? Explain.",
+    "category": "2"
+},
+{
+    "question": "What are your career goals?",
+    "category": "2"
+},
+{
+    "question": "How competitive are you? Explain.",
+    "category": "2"
+},
+{
+    "question": "Are you a penny-pincher or a big spender? Why?",
+    "category": "2"
+},
+{
+    "question": "Would you describe yourself as more laid back or more intense? Why?",
+    "category": "2"
+},
+{
+    "question": "What bores you?",
+    "category": "2"
+},
+{
+    "question": "What books are you reading these days?",
+    "category": "2"
+},
+{
+    "question": "To what degree do you consider yourself athletic? At which sports do you excel?",
+    "category": "2"
+},
+{
+    "question": "At what time of the day do you feel your best?",
+    "category": "2"
+},
+{
+    "question": "Are you a compulsive shopper or do you bring a list and carefully consider your purchases? Why?",
+    "category": "2"
+},
+{
+    "question": "How good are you at multitasking? Give an example.",
+    "category": "2"
+},
+{
+    "question": "Are you an early bird or a night owl? Why?",
+    "category": "2"
+},
+{
+    "question": "What's something that amazes you?",
+    "category": "2"
+},
+{
+    "question": "What spells adventure for you?",
+    "category": "2"
+},
+{
+    "question": "What tests the limits of your sense of balance?",
+    "category": "2"
+},
+{
+    "question": "How much of a 'people watcher? are you? In what places do you find yourself 'people watching??",
+    "category": "2"
+},
+{
+    "question": "Whom do you call when you need a hand?",
+    "category": "2"
+},
+{
+    "question": "What's your dream job?",
+    "category": "2"
+},
+{
+    "question": "Do you read or study best in silence or in a place with background noise? Why?",
+    "category": "2"
+},
+{
+    "question": "Do you prefer exercising your mind or your body? How frequently do you do either?",
+    "category": "2"
+},
+{
+    "question": "Are you more of a dog person or a cat person? Why?",
+    "category": "2"
+},
+{
+    "question": "What's your preference: plane, train, boat, automobile, horse, or camel?",
+    "category": "2"
+},
+{
+    "question": "How far in advance do you prefer to plan? Why?",
+    "category": "2"
+},
+{
+    "question": "Are you a traveler or a homebody? Explain.",
+    "category": "2"
+},
+{
+    "question": "What's your favorite room in your home? Why?",
+    "category": "2"
+},
+{
+    "question": "Where's your perfect dream vacation spot?",
+    "category": "2"
+},
+{
+    "question": "Where's your favorite place to take out-of-town guests?",
+    "category": "2"
+},
+{
+    "question": "What's one book you recommend and why?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite genre of literature?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite question to ask? What's your favorite question to answer?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite expression?",
+    "category": "2"
+},
+{
+    "question": "What's your all-time favorite video game?",
+    "category": "2"
+},
+{
+    "question": "What's your all-time favorite band, and what would you give to meet them?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite subject to discuss? Why?",
+    "category": "2"
+},
+{
+    "question": "When you fly, do you prefer to arrive at the airport extra early or get there just in the nick of time? Why?",
+    "category": "2"
+},
+{
+    "question": "What bothers you most about perfectionists?",
+    "category": "2"
+},
+{
+    "question": "What are your three favorite television shows? How frequently do you watch them?",
+    "category": "2"
+},
+{
+    "question": "What is one of your favorite souvenirs brought back from your travels? Where do you keep it?",
+    "category": "2"
+},
+{
+    "question": "Do you prefer to plan your vacation or be spontaneous? Why?",
+    "category": "2"
+},
+{
+    "question": "What's your most treasured piece of jewelry? Why?",
+    "category": "2"
+},
+{
+    "question": "Who is your favorite musician, and how often have you seen him or her perform?",
+    "category": "2"
+},
+{
+    "question": "What's your preferred way to meet new people? Explain.",
+    "category": "2"
+},
+{
+    "question": "How do you prefer to learn or memorize new information?",
+    "category": "2"
+},
+{
+    "question": "What is your favorite day of the week? Why?",
+    "category": "2"
+},
+{
+    "question": "When you are home alone, do you need the stereo, radio, or TV turned on? Or do you prefer the quiet? Explain.",
+    "category": "2"
+},
+{
+    "question": "Who's the best cook you know, and what's his or her specialty?",
+    "category": "2"
+},
+{
+    "question": "Who's the most creative or artistic person you know?",
+    "category": "2"
+},
+{
+    "question": "What is your favorite poem or saying? Why is it your favorite?",
+    "category": "2"
+},
+{
+    "question": "As you fall asleep, do you prefer to be flat on your back, curled on your side, or on your stomach? What position are you in when you wake up?",
+    "category": "2"
+},
+{
+    "question": "What type of museum do you most like to visit?",
+    "category": "2"
+},
+{
+    "question": "Do you remember jokes very well? What's the best joke you'se heard recently?",
+    "category": "2"
+},
+{
+    "question": "Do you have a favorite painting or drawing? What makes it special to you?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite birthday memory?",
+    "category": "2"
+},
+{
+    "question": "What was your first job? How much did you get paid?",
+    "category": "2"
+},
+{
+    "question": "When was the last time you played hooky? Explain the situation.",
+    "category": "2"
+},
+{
+    "question": "As a child, what was your idea of fun?",
+    "category": "2"
+},
+{
+    "question": "When have you experienced poor customer service? How did you react?",
+    "category": "2"
+},
+{
+    "question": "How many bones have you broken? Share the details.",
+    "category": "2"
+},
+{
+    "question": "How many times have you had stitches, and what were the circumstances? Explain.",
+    "category": "2"
+},
+{
+    "question": "What pets did you have growing up? What were their names?",
+    "category": "2"
+},
+{
+    "question": "What is the best bargain you ever found?",
+    "category": "2"
+},
+{
+    "question": "Can you remember the address of one of your childhood homes? If so, what was it?",
+    "category": "2"
+},
+{
+    "question": "When did you get your first traffic ticket? Share the details.",
+    "category": "2"
+},
+{
+    "question": "What was your favorite subject in school? Why?",
+    "category": "2"
+},
+{
+    "question": "Growing up, for which holidays did your family decorate the house?",
+    "category": "2"
+},
+{
+    "question": "Have you ever helped a total stranger? If so, how?",
+    "category": "2"
+},
+{
+    "question": "Have you ever served on jury duty? If so, what was the case about? If not, would you like to be on a jury in the future?",
+    "category": "2"
+},
+{
+    "question": "When the 'tooth fairy? came, what did you usually get?",
+    "category": "2"
+},
+{
+    "question": "What's your favorite picnic memory?",
+    "category": "2"
+},
+{
+    "question": "Who was your least favorite teacher? Why?",
+    "category": "2"
+},
+{
+    "question": "As a child, did you take music lessons or take part in band or choir? Explain.",
+    "category": "2"
+},
+{
+    "question": "What's one of the biggest purchases you made, and how did you negotiate the transaction?",
+    "category": "2"
+},
+{
+    "question": "What's the best prank you'se ever pulled off?",
+    "category": "2"
+},
+{
+    "question": "What's the best prank someone pulled on you?",
+    "category": "2"
+},
+{
+    "question": "What was the last concert you attended? Who did you go with?",
+    "category": "2"
+},
+{
+    "question": "What one new thing did you learn in the last week?",
+    "category": "2"
+},
+{
+    "question": "How many foreign countries have you visited? Which one stands out in your memory?",
+    "category": "2"
+},
+{
+    "question": "What has frustrated you in the recent past? Explain.",
+    "category": "2"
+},
+{
+    "question": "In what sports, clubs, or activities were you most involved during high school?",
+    "category": "2"
+},
+{
+    "question": "Who was your first boyfriend or girlfriend? What was he or she like?",
+    "category": "2"
+},
+{
+    "question": "What is the first movie you saw in a theater?",
+    "category": "2"
+},
+{
+    "question": "What was the name of your first album\/CD?",
+    "category": "2"
+},
+{
+    "question": "Have you (or someone you know) ever been on national television? Describe the situation.",
+    "category": "2"
+},
+{
+    "question": "Have you ever participated in a long distance walking, running, or biking event? Tell your story.",
+    "category": "2"
+},
+{
+    "question": "How many times did you move growing up? Describe your experience and how it impacted you.",
+    "category": "2"
+},
+{
+    "question": "What's the worst weather situation you'se been in? Explain.",
+    "category": "2"
+},
+{
+    "question": "Was there ever a time when you or someone you know was a victim of fraud? Explain.",
+    "category": "2"
+},
+{
+    "question": "What was the best or worst job you ever had?",
+    "category": "2"
+},
+{
+    "question": "What's the best thing you ever built or created?",
+    "category": "2"
+},
+{
+    "question": "What's the story behind a time when a car you were in broke down?",
+    "category": "2"
+},
+{
+    "question": "What are your best or worst childhood mem-ories of going to a zoo or circus?",
+    "category": "2"
+},
+{
+    "question": "What was a recent deja vu experience?",
+    "category": "2"
+},
+{
+    "question": "Did you ever learn to swim? If so, how did you learn? Describe your experience.",
+    "category": "2"
+},
+{
+    "question": "When did you last have fresh flowers in your home? What was the occasion?",
+    "category": "2"
+},
+{
+    "question": "If you had an unlimited shopping spree at only one store, which one would you choose? Why?",
+    "category": "2"
+},
+{
+    "question": "If you could play any instrument, what would you choose? Why?",
+    "category": "2"
+},
+{
+    "question": "If you had the chance to go anywhere for dinner tomorrow, where would you go? Why?",
+    "category": "2"
+},
+{
+    "question": "If you were assured you would not fail, what endeavor would you attempt?",
+    "category": "2"
+},
+{
+    "question": "If you had to perform a 'Stupid Human Trick\u2019 for the David Letterman show, what would you do?",
+    "category": "2"
+},
+{
+    "question": "If you could possess it, what superhero's super power would you want to have and why?",
+    "category": "2"
+},
+{
+    "question": "If you were a WWE Smackdown champion wrestler, what would be your name and calling card?",
+    "category": "2"
+},
+{
+    "question": "If there were no animals in our world, what would we be missing?",
+    "category": "2"
+},
+{
+    "question": "If you were a master sculptor for a day, what would you sculpt?",
+    "category": "2"
+},
+{
+    "question": "If you could own any sports team, which one would it be?",
+    "category": "2"
+},
+{
+    "question": "If you had the ability to compete in the Olympics, what event would you want to be in?",
+    "category": "2"
+},
+{
+    "question": "If you had the talent to play a professional sport, which one would you select?",
+    "category": "2"
+},
+{
+    "question": "If you could establish one charitable organization, what would it be?",
+    "category": "2"
+},
+{
+    "question": "If you could turn into any animal at will, which one would you select? Why?",
+    "category": "2"
+},
+{
+    "question": "If you had to design a float for a parade, what would you design?",
+    "category": "2"
+},
+{
+    "question": "If you were on a debate team, what subject would you relish debating?",
+    "category": "2"
+},
+{
+    "question": "If you were a doctor, which field of medicine would you specialize in? Why?",
+    "category": "2"
+},
+{
+    "question": "If you were to star in a movie, what would be your ideal role?",
+    "category": "2"
+},
+{
+    "question": "If you had to choose right now, who would you select to be in your wedding party?",
+    "category": "2"
+},
+{
+    "question": "If you could be any cartoon character, which one would you be?",
+    "category": "2"
+},
+{
+    "question": "If you could make any improvement on how cars operate, what would it be?",
+    "category": "2"
+},
+{
+    "question": "If you could teach any class on any subject, what would you teach and to whom would you teach it?",
+    "category": "2"
+},
+{
+    "question": "If you were a great explorer, what would you explore?",
+    "category": "2"
+},
+{
+    "question": "If you could be a contestant on any game show, which one would it be?",
+    "category": "2"
+},
+{
+    "question": "If you could own a restaurant, what kind would it be?",
+    "category": "2"
+},
+{
+    "question": "If you could redecorate your home at no cost, what would you wish to do?",
+    "category": "2"
+},
+{
+    "question": "If you were going to a costume party next week, what costume would you wear?",
+    "category": "2"
+},
+{
+    "question": "If you could hang a motto in every home, what would it say?",
+    "category": "2"
+},
+{
+    "question": "What does \u2018success' mean to you?",
+    "category": "2"
+},
+{
+    "question": "What kinds of things do you catch yourself exaggerating about?",
+    "category": "2"
+},
+{
+    "question": "What's the most ridiculous thing you'se ever stolen? Explain the situation.",
+    "category": "2"
+},
+{
+    "question": "In what area of your life are you immature?",
+    "category": "2"
+},
+{
+    "question": "What important competition have you lost?",
+    "category": "2"
+},
+{
+    "question": "What do you do to get 'centered'?",
+    "category": "2"
+},
+{
+    "question": "Have you ever broken or spilled something in someone else's home? Did you try to cover it up or fix it so it would go unnoticed? Explain.",
+    "category": "2"
+},
+{
+    "question": "How would you graciously turn down an invitation to go out on a date? How would you graciously break up with someone you were dating?",
+    "category": "2"
+},
+{
+    "question": "What makes you stand to your feet and cheer?",
+    "category": "2"
+},
+{
+    "question": "What is something that always brings a smile to your face?",
+    "category": "2"
+},
+{
+    "question": "What silly thing have you done in the name of love?",
+    "category": "2"
+},
+{
+    "question": "When was the last time you helped someone in need? Describe it.",
+    "category": "2"
+},
+{
+    "question": "In relationships, are you more often the \u2018heartbreaker' or the 'heart broken\u2019? Why?",
+    "category": "2"
+},
+{
+    "question": "How many times have you really been in love?",
+    "category": "2"
+},
+{
+    "question": "Whom have you lost touch with but still wonder about?",
+    "category": "2"
+},
+{
+    "question": "What's the best greeting card you ever received?",
+    "category": "2"
+},
+{
+    "question": "What was the best surprise you've ever pulled off?",
+    "category": "2"
+},
+{
+    "question": "What was the best news you've ever received?",
+    "category": "2"
+},
+{
+    "question": "When do you find yourself singing?",
+    "category": "2"
+},
+{
+    "question": "What color describes your mood right now?",
+    "category": "2"
+},
+{
+    "question": "What was the greatest day of your life?",
+    "category": "2"
+},
+{
+    "question": "What objects from your childhood have you saved? Explain why.",
+    "category": "2"
+},
+{
+    "question": "Do you use the word \u2018love' freely and often or selectively and seldom? Explain why.",
+    "category": "2"
+},
+{
+    "question": "What do you do when a homeless person asks you for money? How do you feel afterward?",
+    "category": "2"
+},
+{
+    "question": "When you are happy, how do you like to celebrate?",
+    "category": "2"
+},
+{
+    "question": "What recent disappointment have you had?",
+    "category": "2"
+},
+{
+    "question": "Is there someone in your life who has never (or rarely) let you down? How long have you known this person?",
+    "category": "2"
+},
+{
+    "question": "What do you want?",
+    "category": "2"
+},
+{
+    "question": "What does silence feel like to you?",
+    "category": "2"
+},
+{
+    "question": "What makes you feel jealous?",
+    "category": "2"
+},
+{
+    "question": "What's your most cherished romantic moment?",
+    "category": "2"
+},
+{
+    "question": "What fills your heart up to the bursting level?",
+    "category": "2"
+},
+{
+    "question": "How often or easily do movies make you cry?",
+    "category": "2"
+},
+{
+    "question": "Growing up, what virtue did you see in your parents that you hope to emulate?",
+    "category": "2"
+},
+{
+    "question": "If you could live in any period of history, when would it be?",
+    "category": "2"
+},
+{
+    "question": "Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+    "category": "2"
+},
+{
+    "question": "What were you doing when you last lost track of time?",
+    "category": "2"
+},
+{
+    "question": "Dumbest thing you've done to impress someone?",
+    "category": "2"
+},
+{
+    "question": "When you are old, what do you think children will ask you to tell stories about?",
+    "category": "2"
+},
+{
+    "question": "What inanimate object would be the most annoying if it played loud upbeat music while being used?",
+    "category": "2"
+},
+{
+    "question": "Where do you get your news?",
+    "category": "2"
+},
+{
+    "question": "What \u201cold person\u201d things do you do?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s the most expensive thing you\u2019ve broken?",
+    "category": "2"
+},
+{
+    "question": "When was the last time you got to tell someone \u201cI told you so.\u201d?",
+    "category": "2"
+},
+{
+    "question": "If you owned a restaurant, what kind of food would it serve?",
+    "category": "2"
+},
+{
+    "question": "When was the last time you stayed up through the entire night?",
+    "category": "2"
+},
+{
+    "question": "What just around the corner tech are you eager to get your hands on?",
+    "category": "2"
+},
+{
+    "question": "What outdated slang do you use on a regular basis?",
+    "category": "2"
+},
+{
+    "question": "What topic could you spend hours talking about?",
+    "category": "2"
+},
+{
+    "question": "Where is the most uncomfortable place you have ever slept?",
+    "category": "2"
+},
+{
+    "question": "What do you spend most of your time doing?",
+    "category": "2"
+},
+{
+    "question": "If you were given five million dollars to open a small museum, what kind of museum would you create?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s the most pleasant sounding accent?",
+    "category": "2"
+},
+{
+    "question": "What are you interested in that most people aren\u2019t?",
+    "category": "2"
+},
+{
+    "question": "What was cool when you were young but isn\u2019t cool now?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s the coldest you\u2019ve ever been?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s the most interesting building you\u2019ve ever seen or been in?",
+    "category": "2"
+},
+{
+    "question": "What Animal Best Represents You And Why?",
+    "category": "2"
+},
+{
+    "question": "What\u2019s the sweetest present you\u2019ve ever received?",
+    "category": "2"
+},
+{
+    "question": "What goals have you recently set for yourself, and how are you doing on them so far?",
+    "category": "3"
+},
+{
+    "question": "Are you ever a high-maintenance person? Explain.",
+    "category": "3"
+},
+{
+    "question": "When was the last time you really pushed yourself to your physical limits? Explain.",
+    "category": "3"
+},
+{
+    "question": "How do you go about illuminating 'blind spots? in your life?",
+    "category": "3"
+},
+{
+    "question": "How comfortable are you with uncertainty? Explain.",
+    "category": "3"
+},
+{
+    "question": "When are you shy?",
+    "category": "3"
+},
+{
+    "question": "What's something you regret losing, selling, or giving away? Explain why.",
+    "category": "3"
+},
+{
+    "question": "What's your idea of cute?",
+    "category": "3"
+},
+{
+    "question": "What do you take for granted the most?",
+    "category": "3"
+},
+{
+    "question": "How often do you interrupt others while they are talking? Give a reason for your answer.",
+    "category": "3"
+},
+{
+    "question": "Are you a risk taker? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "Do you care more about pleasing people or speaking the truth? Explain your answer.",
+    "category": "3"
+},
+{
+    "question": "What big challenge have you taken on recently?",
+    "category": "3"
+},
+{
+    "question": "When was the last time you wanted to scream? Explain.",
+    "category": "3"
+},
+{
+    "question": "What's someone's idiosyncrasy that really bothers you?",
+    "category": "3"
+},
+{
+    "question": "What bad habit do you wish you could break?",
+    "category": "3"
+},
+{
+    "question": "On a scale of 1 to 10, how much of a perfectionist are you? Explain.",
+    "category": "3"
+},
+{
+    "question": "Where do you think you spend most of your money?",
+    "category": "3"
+},
+{
+    "question": "What allergies do you have?",
+    "category": "3"
+},
+{
+    "question": "How tolerant a person are you?",
+    "category": "3"
+},
+{
+    "question": "To what extent do others\u2019 beliefs influence you? Why?",
+    "category": "3"
+},
+{
+    "question": "What causes you to get flustered?",
+    "category": "3"
+},
+{
+    "question": "What fear would you like to overcome?",
+    "category": "3"
+},
+{
+    "question": "When do you most feel like a slave to time?",
+    "category": "3"
+},
+{
+    "question": "What do you consider your best quality?",
+    "category": "3"
+},
+{
+    "question": "Are you more task oriented or people oriented? Why?",
+    "category": "3"
+},
+{
+    "question": "How do you feel about your age?",
+    "category": "3"
+},
+{
+    "question": "What's your idea of a good time?",
+    "category": "3"
+},
+{
+    "question": "Who is the first person you tell when some-thing good happens to you?",
+    "category": "3"
+},
+{
+    "question": "Whom do you run to when something bad happens in your life?",
+    "category": "3"
+},
+{
+    "question": "In what circumstances do your motor skills short-circuit your verbal skills, and vice versa?",
+    "category": "3"
+},
+{
+    "question": "When are you the most at ease with yourself?",
+    "category": "3"
+},
+{
+    "question": "What do you do when you want to relax?",
+    "category": "3"
+},
+{
+    "question": "Do you say 'goodbye? quickly, slowly, or not at all? Why?",
+    "category": "3"
+},
+{
+    "question": "What do you like and dislike most about your current job?",
+    "category": "3"
+},
+{
+    "question": "What is your greatest physical challenge?",
+    "category": "3"
+},
+{
+    "question": "How accident-prone are you? Describe a recent incident.",
+    "category": "3"
+},
+{
+    "question": "When you need to confront someone, would you rather communicate in person, on the phone, by e-mail, or by letter? Why?",
+    "category": "3"
+},
+{
+    "question": "Which do you prefer: the hustle and bustle of city life or the quiet and serenity of country life? Why?",
+    "category": "3"
+},
+{
+    "question": "Do you prefer that people shoot straight with you or carefully temper their words? Why?",
+    "category": "3"
+},
+{
+    "question": "Do you enjoy a good debate or prefer keeping the peace?",
+    "category": "3"
+},
+{
+    "question": "Do you prefer to thoroughly deliberate options or decisively draw conclusions? Why?",
+    "category": "3"
+},
+{
+    "question": "Which of the five senses do you treasure most? Why?",
+    "category": "3"
+},
+{
+    "question": "What's one thing you would rather pay someone to do than do yourself? Why?",
+    "category": "3"
+},
+{
+    "question": "What real person, dead or alive, do you wish you could be more like? Why?",
+    "category": "3"
+},
+{
+    "question": "What's your least favorite thing to do? Why?",
+    "category": "3"
+},
+{
+    "question": "Whom do you most admire? Why?",
+    "category": "3"
+},
+{
+    "question": "How do you prefer to give constructive criticism? Do you typically wait for someone to ask for it or not? Why?",
+    "category": "3"
+},
+{
+    "question": "What are the best and worst sounds in the world?",
+    "category": "3"
+},
+{
+    "question": "What is something that bothers you if it is not done perfectly? Why is that so?",
+    "category": "3"
+},
+{
+    "question": "Where's your favorite place to be? Why?",
+    "category": "3"
+},
+{
+    "question": "Do you have a set place for everything at home or do you simply let things stay wherever they land? Give some examples.",
+    "category": "3"
+},
+{
+    "question": "What's your favorite quote? Why is it special to you?",
+    "category": "3"
+},
+{
+    "question": "What's your favorite holiday tradition? What meaning does it have for you?",
+    "category": "3"
+},
+{
+    "question": "Where's your favorite place to go when you want to be alone? Why?",
+    "category": "3"
+},
+{
+    "question": "What's your all-time favorite town or city? Why?",
+    "category": "3"
+},
+{
+    "question": "What are the top three qualities that first draw you to someone new?",
+    "category": "3"
+},
+{
+    "question": "What's one of your greatest achievements?",
+    "category": "3"
+},
+{
+    "question": "Who was your best friend in high school, and where is he or she now?",
+    "category": "3"
+},
+{
+    "question": "As a kid, what did you want to grow up to be?",
+    "category": "3"
+},
+{
+    "question": "What photos do you cherish from the past? Where do you keep them now?",
+    "category": "3"
+},
+{
+    "question": "Was there ever a time when it turned out you were right, in spite of many others who thought otherwise? Explain the situation.",
+    "category": "3"
+},
+{
+    "question": "What do you remember about your first day of school or your first teacher?",
+    "category": "3"
+},
+{
+    "question": "What's your most memorable (good or bad) airplane flight?",
+    "category": "3"
+},
+{
+    "question": "What's something you'se done that surprised even you?",
+    "category": "3"
+},
+{
+    "question": "Have you ever seen or called a psychic? What was your experience like?",
+    "category": "3"
+},
+{
+    "question": "What kind of kids did you hang out with in high school?",
+    "category": "3"
+},
+{
+    "question": "Who was your favorite teacher growing up, and what did you like most about him or her?",
+    "category": "3"
+},
+{
+    "question": "What's your most treasured heirloom?",
+    "category": "3"
+},
+{
+    "question": "How have your priorities changed over time? Explain.",
+    "category": "3"
+},
+{
+    "question": "How did someone plan a surprise for you? What was your reaction?",
+    "category": "3"
+},
+{
+    "question": "Did you or someone you know ever talk a police officer out of writing a ticket? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "What was an act of kindness you offered or received?",
+    "category": "3"
+},
+{
+    "question": "Have you dreamed of flying, falling, or running? Describe your most vivid memory of one of these dreams.",
+    "category": "3"
+},
+{
+    "question": "Have you ever had a premonition that actually came true? Explain.",
+    "category": "3"
+},
+{
+    "question": "Have you ever been let off the hook for a pun-ishment you deserved? How did that make you feel?",
+    "category": "3"
+},
+{
+    "question": "Did you ever cheat on a school exam? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "What was a childhood disillusionment you experienced?",
+    "category": "3"
+},
+{
+    "question": "How much trouble did you get into during your school days? Explain.",
+    "category": "3"
+},
+{
+    "question": "As a child, did you ever peek into a wrapped gift before you actually received it? Did you ever get caught? Explain the details.",
+    "category": "3"
+},
+{
+    "question": "What is your earliest childhood memory?",
+    "category": "3"
+},
+{
+    "question": "Have you ever suggested an idea for change that was adopted? What was it?",
+    "category": "3"
+},
+{
+    "question": "When were you in a situation where something struck you as funny, but it was inappropriate to laugh? What did you do to suppress your laughter?",
+    "category": "3"
+},
+{
+    "question": "What's a favorite memory with your grand-parents?",
+    "category": "3"
+},
+{
+    "question": "When were you in a hospital? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "How would you describe your most magical childhood moment?",
+    "category": "3"
+},
+{
+    "question": "What was your best or worst job interview?",
+    "category": "3"
+},
+{
+    "question": "Have you ever had a challenging roommate situation? What was difficult about it?",
+    "category": "3"
+},
+{
+    "question": "What was your most romantic date?",
+    "category": "3"
+},
+{
+    "question": "What outside influences have had the greatest impact on your family?",
+    "category": "3"
+},
+{
+    "question": "What's the most adventurous or daring thing you have ever done?",
+    "category": "3"
+},
+{
+    "question": "How would you describe one of your happiest childhood memories?",
+    "category": "3"
+},
+{
+    "question": "If you could be invisible for a day, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could switch job responsibilities with your boss, would you do it? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "If you could go anywhere for a one-day visit, where would you go? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could spend one hour doing absolutely anything, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could do something very daring without fear, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could take an early retirement, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could be any celebrity, who would you want to become? Why?",
+    "category": "3"
+},
+{
+    "question": "If you won a million dollars in the lottery, how would you spend it?",
+    "category": "3"
+},
+{
+    "question": "If you could learn to speak a foreign language, which one would you choose and why?",
+    "category": "3"
+},
+{
+    "question": "If you were stranded on a deserted island, what three 'luxury items? would you most want to have with you?",
+    "category": "3"
+},
+{
+    "question": "If you could rule the world for one day, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could change your occupation, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could give one gift to your children, what would it be?",
+    "category": "3"
+},
+{
+    "question": "If you could live anywhere in the world, where would it be?",
+    "category": "3"
+},
+{
+    "question": "If you were able to listen to only one music CD ever again, what would it be and why?",
+    "category": "3"
+},
+{
+    "question": "If you had to change your first name, what name would you choose?",
+    "category": "3"
+},
+{
+    "question": "If you had the opportunity to start your own business, what would you start? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could cure a disease or heal a sickness, which one would you choose? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could bring peace to one country, which one would you select? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could relive any year, what year would you choose? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could have invented one thing, what would it have been?",
+    "category": "3"
+},
+{
+    "question": "If you could develop something that's not been invented yet, what would you invent?",
+    "category": "3"
+},
+{
+    "question": "If you could rob from the rich and give to the poor and get away with it, would you do it? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could rid the world of one evil, which one would it be? Why?",
+    "category": "3"
+},
+{
+    "question": "If you were stranded on a deserted island, which three people would you most want to have join you?",
+    "category": "3"
+},
+{
+    "question": "If you could be a radio or television personal-ity, what kind of program would you choose?",
+    "category": "3"
+},
+{
+    "question": "If you were in charge of ending world hunger, where would you start?",
+    "category": "3"
+},
+{
+    "question": "If you had the time to volunteer for any worthwhile organization, which one would you choose? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could live forever on earth, would you choose to do so? Explain.",
+    "category": "3"
+},
+{
+    "question": "If you were to paint a picture of your child-hood, what colors would you use? Describe your picture.",
+    "category": "3"
+},
+{
+    "question": "If you could write a best-selling book, what would you write about?",
+    "category": "3"
+},
+{
+    "question": "If you could change one thing about the culture you live in, what would it be? Why?",
+    "category": "3"
+},
+{
+    "question": "If you were required to distribute a million dollars any way you wanted, how would you do it?",
+    "category": "3"
+},
+{
+    "question": "If you could rewrite history, what one thing would you change?",
+    "category": "3"
+},
+{
+    "question": "If you were a gifted painter, what picture would you want to paint first?",
+    "category": "3"
+},
+{
+    "question": "If you could give some advice to all parents, what would you say?",
+    "category": "3"
+},
+{
+    "question": "If you had to do your life over, what one thing would you do differently? Explain.",
+    "category": "3"
+},
+{
+    "question": "If you could wave a magic wand and stop any one thing, what would you stop? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could trade places with anyone for one week, who would you want to trade with and why?",
+    "category": "3"
+},
+{
+    "question": "If you could make one character from any work of fiction come to life, what character would you select?",
+    "category": "3"
+},
+{
+    "question": "If you could run Hollywood, what would you do?",
+    "category": "3"
+},
+{
+    "question": "If you could transport yourself at will between any two destinations, which two would you choose? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could be any age for the rest of your life, what age would you choose? Why?",
+    "category": "3"
+},
+{
+    "question": "If you could capture any event in history on videotape, which one event would it be?",
+    "category": "3"
+},
+{
+    "question": "If you were to get a tattoo, what would it be? And where would you put it?",
+    "category": "3"
+},
+{
+    "question": "If you could give one piece of advice to pass on to the next generation, what would it be?",
+    "category": "3"
+},
+{
+    "question": "Which is the greater tragedy: an innocent per-son imprisoned or a guilty person set free? Explain.",
+    "category": "3"
+},
+{
+    "question": "How important is it to set personal goals?",
+    "category": "3"
+},
+{
+    "question": "Are people trustworthy? Explain your answer.",
+    "category": "3"
+},
+{
+    "question": "What new law is needed to make the world a better place to live?",
+    "category": "3"
+},
+{
+    "question": "How would you describe the perfect day?",
+    "category": "3"
+},
+{
+    "question": "What is the ideal age to get married? Why?",
+    "category": "3"
+},
+{
+    "question": "What is the greatest invention the world has ever seen?",
+    "category": "3"
+},
+{
+    "question": "What advice can you give about how to relieve stress?",
+    "category": "3"
+},
+{
+    "question": "What is the difference between knowing a lot of facts about a person and knowing someone personally?",
+    "category": "3"
+},
+{
+    "question": "What do you think is the secret to a happy marriage?",
+    "category": "3"
+},
+{
+    "question": "Why do innocent people suffer?",
+    "category": "3"
+},
+{
+    "question": "Is seeking truth a way of life or a season of life? Explain.",
+    "category": "3"
+},
+{
+    "question": "Why are bad habits so hard to break?",
+    "category": "3"
+},
+{
+    "question": "Whom do you consider the greatest president of all time? Why?",
+    "category": "3"
+},
+{
+    "question": "What is truth?",
+    "category": "3"
+},
+{
+    "question": "What's more important, a healthy mind or a healthy body? Why?",
+    "category": "3"
+},
+{
+    "question": "Does life imitate art or does art imitate life? Explain.",
+    "category": "3"
+},
+{
+    "question": "To what extent is it possible to show respect or tolerance and still disagree?",
+    "category": "3"
+},
+{
+    "question": "What does it mean when two people are said to have 'chemistry??",
+    "category": "3"
+},
+{
+    "question": "To what extent is cloning a moral issue? Explain.",
+    "category": "3"
+},
+{
+    "question": "When is it better to be safe than sorry?",
+    "category": "3"
+},
+{
+    "question": "What does it mean to be powerful?",
+    "category": "3"
+},
+{
+    "question": "What is the benefit of meditation?",
+    "category": "3"
+},
+{
+    "question": "What's most intriguing about the Cinderella story?",
+    "category": "3"
+},
+{
+    "question": "What's the best approach for resolving conflict?",
+    "category": "3"
+},
+{
+    "question": "Which is more important: what you say or how you say it? Explain your answer.",
+    "category": "3"
+},
+{
+    "question": "Do you think a sixth sense exists? Explain.",
+    "category": "3"
+},
+{
+    "question": "When is it appropriate to resort to making a threat? When is a threat not a threat?",
+    "category": "3"
+},
+{
+    "question": "What role does trust play in our everyday relationships?",
+    "category": "3"
+},
+{
+    "question": "What's the best way to earn another person's respect?",
+    "category": "3"
+},
+{
+    "question": "What's the best way to resist peer pressure?",
+    "category": "3"
+},
+{
+    "question": "What do you think is the most significant event in the history of the human race? Explain.",
+    "category": "3"
+},
+{
+    "question": "What are the best ways to inspire or motivate people?",
+    "category": "3"
+},
+{
+    "question": "What's the best way to delegate things to others?",
+    "category": "3"
+},
+{
+    "question": "In raising children, do you think it's best to discipline by giving timeouts, discussions, spankings, or a combination? Why?",
+    "category": "3"
+},
+{
+    "question": "What's the best way to negotiate a raise in salary?",
+    "category": "3"
+},
+{
+    "question": "Where do you draw the line between helping people and showing them how to help them-selves? How do you strike that balance?",
+    "category": "3"
+},
+{
+    "question": "What's a sure way to detect when someone is lying?",
+    "category": "3"
+},
+{
+    "question": "How do you measure contentment?",
+    "category": "3"
+},
+{
+    "question": "What's the best way to handle another person's hostility and ease tensions?",
+    "category": "3"
+},
+{
+    "question": "How important is physical appearance when it comes to achieving success or getting one's way in life?",
+    "category": "3"
+},
+{
+    "question": "What's the age of accountability?",
+    "category": "3"
+},
+{
+    "question": "Who's the greatest leader of all time? Why?",
+    "category": "3"
+},
+{
+    "question": "Does work really banish three great evils? boredom, vice, and poverty? Explain.",
+    "category": "3"
+},
+{
+    "question": "What do you recommend to overcome self-pity?",
+    "category": "3"
+},
+{
+    "question": "What's the best approach to use in negotiating a fair purchase price for a car?",
+    "category": "3"
+},
+{
+    "question": "Why is it taboo to discuss personal financial matters?",
+    "category": "3"
+},
+{
+    "question": "What's the best remedy for anxiety caused by speaking in front of a large group of people?",
+    "category": "3"
+},
+{
+    "question": "When is failure a success?",
+    "category": "3"
+},
+{
+    "question": "Why are people who win the lottery often unhappier than they were before their win?",
+    "category": "3"
+},
+{
+    "question": "What is it about human nature that tends to stubbornly refuse the aid of someone else?",
+    "category": "3"
+},
+{
+    "question": "What purpose do the emotions of regret, shame, or guilt serve?",
+    "category": "3"
+},
+{
+    "question": "Do you think religious holidays have become too commercialized by society? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "Do you think the general population is better off or worse off than it was fifty years ago? Why?",
+    "category": "3"
+},
+{
+    "question": "What phobias have you struggled with?",
+    "category": "3"
+},
+{
+    "question": "How are you different now than you were before September , ?",
+    "category": "3"
+},
+{
+    "question": "What insults your intelligence?",
+    "category": "3"
+},
+{
+    "question": "When is it okay to lie?",
+    "category": "3"
+},
+{
+    "question": "When have you had to agree to disagree? Explain.",
+    "category": "3"
+},
+{
+    "question": "What bad habit have you broken?",
+    "category": "3"
+},
+{
+    "question": "In an emergency, which friends would you feel the freedom to call in the middle of the night?",
+    "category": "3"
+},
+{
+    "question": "Have you ever been falsely accused? Describe the situation and how you felt about it.",
+    "category": "3"
+},
+{
+    "question": "What character trait are you currently trying to improve or change?",
+    "category": "3"
+},
+{
+    "question": "Have you ever gotten caught doing some-thing you shouldn't have done? Describe the occasion.",
+    "category": "3"
+},
+{
+    "question": "Was there ever a time when you were very sure of something, but were later proved wrong? Explain what happened and how you reacted.",
+    "category": "3"
+},
+{
+    "question": "How have you been humbled? Describe the details.",
+    "category": "3"
+},
+{
+    "question": "When was the last time you said, 'It'I my fault'I'I sorry?? Explain the situation.",
+    "category": "3"
+},
+{
+    "question": "What hot topic usually turns into an argument with you?",
+    "category": "3"
+},
+{
+    "question": "In what situation do you often find yourself 'walking on eggshells??",
+    "category": "3"
+},
+{
+    "question": "Who's the 'slack sheep? of your family? Explain the situation.",
+    "category": "3"
+},
+{
+    "question": "What temptation have you successfully resisted? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "How do you comfort those who have suffered a tragedy or loss?",
+    "category": "3"
+},
+{
+    "question": "Have you found your place in this world? If so, where is it?",
+    "category": "3"
+},
+{
+    "question": "What's something for which you would seek revenge?",
+    "category": "3"
+},
+{
+    "question": "What was your last argument about?",
+    "category": "3"
+},
+{
+    "question": "How often do you tell little white lies? Give an example.",
+    "category": "3"
+},
+{
+    "question": "What is your greatest weakness?",
+    "category": "3"
+},
+{
+    "question": "What lie did you tell today?",
+    "category": "3"
+},
+{
+    "question": "Have you ever felt like you were taking three steps forward but two steps back? Explain.",
+    "category": "3"
+},
+{
+    "question": "What's the closest you'se come to having an epiphany?",
+    "category": "3"
+},
+{
+    "question": "What would make you totally content right now?",
+    "category": "3"
+},
+{
+    "question": "What is something that you failed at?",
+    "category": "3"
+},
+{
+    "question": "What mystery have you solved?",
+    "category": "3"
+},
+{
+    "question": "What's something you consider too daring to try?",
+    "category": "3"
+},
+{
+    "question": "What paradox (or contradiction) in life have you had to learn to accept or embrace?",
+    "category": "3"
+},
+{
+    "question": "To what extent are you an argumentative person? Explain.",
+    "category": "3"
+},
+{
+    "question": "To what extent do you trust people? Explain.",
+    "category": "3"
+},
+{
+    "question": "Would you ever give up your life for a friend or family member? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "What lesson has failure taught you?",
+    "category": "3"
+},
+{
+    "question": "Is your 'glass? usually half full or half empty? Why?",
+    "category": "3"
+},
+{
+    "question": "What's an example of your passive-aggressive side?",
+    "category": "3"
+},
+{
+    "question": "Have you forgiven yourself for past personal failures? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "How do you deal with very needy people?",
+    "category": "3"
+},
+{
+    "question": "How do you most want to be remembered?",
+    "category": "3"
+},
+{
+    "question": "What do you hope will be your biggest life-time contribution to society?",
+    "category": "3"
+},
+{
+    "question": "How healthy or unhealthy are you with setting boundaries? Explain.",
+    "category": "3"
+},
+{
+    "question": "'I do what I don'I want to do and I don'I do what I want to do.? To what extent do you relate to that statement? Explain.",
+    "category": "3"
+},
+{
+    "question": "What positives, if any, have resulted from the suffering you've experienced in your life?",
+    "category": "3"
+},
+{
+    "question": "How do you deal with doubt?",
+    "category": "3"
+},
+{
+    "question": "What holds you back?",
+    "category": "3"
+},
+{
+    "question": "What negative behavioral pattern has been passed down from generation to generation within your family?",
+    "category": "3"
+},
+{
+    "question": "What brings out your pessimistic side?",
+    "category": "3"
+},
+{
+    "question": "What's missing in your life? What one thing would make your life complete?",
+    "category": "3"
+},
+{
+    "question": "How hard is life? How does your life compare?",
+    "category": "3"
+},
+{
+    "question": "How would you describe a time when you felt alone in a crowd?",
+    "category": "3"
+},
+{
+    "question": "What's your most prized or sentimental possession? Explain.",
+    "category": "3"
+},
+{
+    "question": "What or who inspires you to be all that you can be?",
+    "category": "3"
+},
+{
+    "question": "When have you been overwhelmed with compassion or overcome with pity? How were you transformed by the experience?",
+    "category": "3"
+},
+{
+    "question": "Describe a time when you lost something very valuable. How did you feel when you finally found it or when you realized it would never be found?",
+    "category": "3"
+},
+{
+    "question": "How do you handle anger?",
+    "category": "3"
+},
+{
+    "question": "What stresses you out?",
+    "category": "3"
+},
+{
+    "question": "What mood are you usually in? Explain why.",
+    "category": "3"
+},
+{
+    "question": "What's one accomplishment that gives you great satisfaction?",
+    "category": "3"
+},
+{
+    "question": "What was your proudest moment?",
+    "category": "3"
+},
+{
+    "question": "How many times have you had a broken heart?",
+    "category": "3"
+},
+{
+    "question": "How have you honored your parents?",
+    "category": "3"
+},
+{
+    "question": "What's the most cowardly thing you'se ever done?",
+    "category": "3"
+},
+{
+    "question": "What was the happiest era of your life?",
+    "category": "3"
+},
+{
+    "question": "What's the most courageous thing you'se ever done?",
+    "category": "3"
+},
+{
+    "question": "When have you recently felt overwhelmed? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "How have you significantly honored another person?",
+    "category": "3"
+},
+{
+    "question": "When did you ever immediately 'click? with someone you just met? What was the long-term result? To what do you attribute that kind of connection?",
+    "category": "3"
+},
+{
+    "question": "Is it better to have loved and lost or never to have loved at all? Explain.",
+    "category": "3"
+},
+{
+    "question": "What brings a tear to your eye?",
+    "category": "3"
+},
+{
+    "question": "Is there a family tradition that has a special meaning for you? Describe it.",
+    "category": "3"
+},
+{
+    "question": "Of the following ways, how do you most like to express your love to another person: touch, words, gifts, time spent together, or acts of kindness?",
+    "category": "3"
+},
+{
+    "question": "Of the following ways, how do you most like to receive expressions of love: touch, words, gifts, time spent together, or acts of kindness?",
+    "category": "3"
+},
+{
+    "question": "What makes you feel like pulling the covers back over your head and staying hidden in bed all day long?",
+    "category": "3"
+},
+{
+    "question": "What brings out your critical side?",
+    "category": "3"
+},
+{
+    "question": "What fuels you?",
+    "category": "3"
+},
+{
+    "question": "What poem or song really moves you? Share a line from it.",
+    "category": "3"
+},
+{
+    "question": "What's one thing that makes you really angry? Explain.",
+    "category": "3"
+},
+{
+    "question": "When you feel sad, what do you do to find comfort?",
+    "category": "3"
+},
+{
+    "question": "Are you ever satisfied? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "How self-centered are you?",
+    "category": "3"
+},
+{
+    "question": "When have you had a cathartic experience and what was the impetus?",
+    "category": "3"
+},
+{
+    "question": "Is it better to love or be loved? Why?",
+    "category": "3"
+},
+{
+    "question": "Do you believe in 'love at first sight?? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "Do you believe in 'soul mates?? Why or why not?",
+    "category": "3"
+},
+{
+    "question": "How is your love for your friends different from your love for your family?",
+    "category": "3"
+},
+{
+    "question": "When is the right time to demonstrate 'tough love??",
+    "category": "3"
+},
+{
+    "question": "When do you feel insecure?",
+    "category": "3"
+},
+{
+    "question": "To what extent do you trust your own judgment or gut instincts? Why?",
+    "category": "3"
+},
+{
+    "question": "What worries you?",
+    "category": "3"
+},
+{
+    "question": "How do you heal a broken heart?",
+    "category": "3"
+},
+{
+    "question": "Who have you loved more than anyone else in your life? Explain.",
+    "category": "3"
+},
+{
+    "question": "When was the last time your heart skipped a beat? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "When have you felt like you could 'never repay? someone? Explain.",
+    "category": "3"
+},
+{
+    "question": "When was the last time your heart was in your throat? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "Was there ever a time when someone rescued you? Describe the closest thing that comes to mind.",
+    "category": "3"
+},
+{
+    "question": "Was there ever a time when you gave your heart completely over to something or someone? Describe the closest thing that comes to mind.",
+    "category": "3"
+},
+{
+    "question": "How often do you second-guess yourself? Why?",
+    "category": "3"
+},
+{
+    "question": "What situations cause you to hold back and protect your heart?",
+    "category": "3"
+},
+{
+    "question": "When do you feel out of control?",
+    "category": "3"
+},
+{
+    "question": "Has your heart ever lied to you, or do you think it always 'tells? the truth? Explain.",
+    "category": "3"
+},
+{
+    "question": "When was a time when you felt honored? Describe the situation.",
+    "category": "3"
+},
+{
+    "question": "What's one question you are asking yourself these days?",
+    "category": "3"
+},
+{
+    "question": "How sensitive a person are you? Explain.",
+    "category": "3"
+},
+{
+    "question": "Have you ever had someone do something for you or give something to you that you did not earn or deserve? Describe the situation and how it made you feel.",
+    "category": "3"
+},
+{
+    "question": "What makes your heart beat fast?",
+    "category": "3"
+},
+{
+    "question": "What are you most thankful for?",
+    "category": "3"
+},
+{
+    "question": "Do you judge a book by its cover?",
+    "category": "3"
+},
+{
+    "question": "When you have nothing pressing, where does your mind drift?",
+    "category": "4"
+},
+{
+    "question": "What's an idiosyncrasy or strange habit that you have?",
+    "category": "4"
+},
+{
+    "question": "On a scale of 1 to 10, how controlling a person are you? Explain.",
+    "category": "4"
+},
+{
+    "question": "What's a strange occurrence you'se observed but, until now, have never (or rarely) shared with anyone?",
+    "category": "4"
+},
+{
+    "question": "What do you think about more than anything else?",
+    "category": "4"
+},
+{
+    "question": "Is it more important to you to look good or feel good? Explain.",
+    "category": "4"
+},
+{
+    "question": "In what situations are you most uncomfortable?",
+    "category": "4"
+},
+{
+    "question": "Under what circumstances is it impossible for you to sleep?",
+    "category": "4"
+},
+{
+    "question": "How do you best avoid conflict?",
+    "category": "4"
+},
+{
+    "question": "What's the most important thing about you?",
+    "category": "4"
+},
+{
+    "question": "When you find yourself in an argument, do you prefer to leave and resolve it later or stay and settle it right away? Why?",
+    "category": "4"
+},
+{
+    "question": "What's your reaction toward people who are outspoken about their beliefs? What conditions cause you to dislike or, conversely, enjoy talking with them?",
+    "category": "4"
+},
+{
+    "question": "Who's your favorite person in the whole wide world? Why?",
+    "category": "4"
+},
+{
+    "question": "What social issue fires you up?",
+    "category": "4"
+},
+{
+    "question": "What one word sums up your high school experience?",
+    "category": "4"
+},
+{
+    "question": "Was school easy or difficult for you? How so?",
+    "category": "4"
+},
+{
+    "question": "What's the most dangerous situation you'se encountered? How did you react?",
+    "category": "4"
+},
+{
+    "question": "Who has made the biggest impact on you? Explain.",
+    "category": "4"
+},
+{
+    "question": "Who has been your friend the longest? How and when did you meet him or her?",
+    "category": "4"
+},
+{
+    "question": "Did a sibling or childhood peer ever tease or torment you? Share the details.",
+    "category": "4"
+},
+{
+    "question": "What childhood accident stands out in your mind?",
+    "category": "4"
+},
+{
+    "question": "What 'close call? did you have from the past? Describe it.",
+    "category": "4"
+},
+{
+    "question": "What's the best advice you'se ever been given?",
+    "category": "4"
+},
+{
+    "question": "What dream has come true for you?",
+    "category": "4"
+},
+{
+    "question": "What nightmare woke you up in a panic?",
+    "category": "4"
+},
+{
+    "question": "How has your birth order affected you?",
+    "category": "4"
+},
+{
+    "question": "Growing up, for the most part, were you respectful or disrespectful to your parents? Explain.",
+    "category": "4"
+},
+{
+    "question": "What lasting lesson did you learn from your parents?",
+    "category": "4"
+},
+{
+    "question": "What's something that you did growing up that your parents never found out about?",
+    "category": "4"
+},
+{
+    "question": "'Life is not measured by the number of breaths you take, but by the moments that take your breath away? (George Carlin). When have you had such a moment?",
+    "category": "4"
+},
+{
+    "question": "How would you summarize the highs and lows of this past week?",
+    "category": "4"
+},
+{
+    "question": "What was your worst 'nightmare? date?",
+    "category": "4"
+},
+{
+    "question": "What event in your life has brought about the greatest life-change?",
+    "category": "4"
+},
+{
+    "question": "What was one of your most frightening moments?",
+    "category": "4"
+},
+{
+    "question": "What lesson did you have to learn the hard way?",
+    "category": "4"
+},
+{
+    "question": "If you could eliminate one weakness or limitation in your life, what would it be?",
+    "category": "4"
+},
+{
+    "question": "If you could change anything about your relationship with your parents, what would it be?",
+    "category": "4"
+},
+{
+    "question": "If you were able to retrieve only one item on the way out of your burning home, what would that be? Explain.",
+    "category": "4"
+},
+{
+    "question": "If you could go back in time, what year would you visit? Why?",
+    "category": "4"
+},
+{
+    "question": "If you had the opportunity to travel into space, would you go? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "If you could talk with only one person for the rest of your life, who would it be and why?",
+    "category": "4"
+},
+{
+    "question": "If you could visit with any person in history, who would it be and why?",
+    "category": "4"
+},
+{
+    "question": "If you could change one thing about your appearance, what would it be?",
+    "category": "4"
+},
+{
+    "question": "If you could change one thing about your personality, how would you be different?",
+    "category": "4"
+},
+{
+    "question": "If you were to write a book about your life, what would it be called?",
+    "category": "4"
+},
+{
+    "question": "If you were imprisoned and were allowed only one book to read, what would you choose and why?",
+    "category": "4"
+},
+{
+    "question": "If you could restore one broken relation-ship, which one would you choose? Why?",
+    "category": "4"
+},
+{
+    "question": "If you could bring one person back from the dead, who would you bring back? Why?",
+    "category": "4"
+},
+{
+    "question": "If you could live your life all over again, would you? Explain.",
+    "category": "4"
+},
+{
+    "question": "If you could look into the future to find out one thing, what would you want to know?",
+    "category": "4"
+},
+{
+    "question": "If you were offered free cosmetic surgery by the best plastic surgeons in the world, would you take it? Explain.",
+    "category": "4"
+},
+{
+    "question": "If you could read everyone's mind for one week only, would you tell anyone or keep it a secret? Explain.",
+    "category": "4"
+},
+{
+    "question": "If you could rid the world of one fear, what fear would it be? Why?",
+    "category": "4"
+},
+{
+    "question": "If you were forced to give up one of your five senses, which one would you choose? Why?",
+    "category": "4"
+},
+{
+    "question": "If you could ask any question of the people you're with right now and get an honest answer, what question would you ask?",
+    "category": "4"
+},
+{
+    "question": "If you could grant any three wishes to one person, to whom would you grant them? Why?",
+    "category": "4"
+},
+{
+    "question": "If you could take back something you've said, what would it be?",
+    "category": "4"
+},
+{
+    "question": "If you were to fast-forward your life five years, where would you be and what would you be doing? What changes would people see in you?",
+    "category": "4"
+},
+{
+    "question": "If you could say anything to the people you're with right now, what would you say?",
+    "category": "4"
+},
+{
+    "question": "Do you think there will ever be world peace? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "What's the secret to a long life?",
+    "category": "4"
+},
+{
+    "question": "What is beauty?",
+    "category": "4"
+},
+{
+    "question": "Why do you think people live in denial?",
+    "category": "4"
+},
+{
+    "question": "In your opinion, what is the moral condition of this world?",
+    "category": "4"
+},
+{
+    "question": "Why do you think divorce is so prevalent?",
+    "category": "4"
+},
+{
+    "question": "To what extent is knowledge power, to what extent is truth power, and what's the difference?",
+    "category": "4"
+},
+{
+    "question": "Do you believe that the human soul is eternal?",
+    "category": "4"
+},
+{
+    "question": "What do you think is needed to make the world a better place?",
+    "category": "4"
+},
+{
+    "question": "What advice can you give about how to conquer fear?",
+    "category": "4"
+},
+{
+    "question": "Why are some people cruel and unkind?",
+    "category": "4"
+},
+{
+    "question": "Why do bad things happen to good people?",
+    "category": "4"
+},
+{
+    "question": "Do you believe that, for the most part, people are basically good, basically bad, or a mixture? Why?",
+    "category": "4"
+},
+{
+    "question": "Do you believe ignorance is bliss? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "Why do you think it's so hard for people to say they're sorry?",
+    "category": "4"
+},
+{
+    "question": "When does the end justify the means?",
+    "category": "4"
+},
+{
+    "question": "What do you think is the greatest problem of the human race?",
+    "category": "4"
+},
+{
+    "question": "What makes a true friendship?",
+    "category": "4"
+},
+{
+    "question": "What is 'unconditional forgiveness\u2019?",
+    "category": "4"
+},
+{
+    "question": "Do you think science will offer the 'final answer\u2019 to all the world's problems? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "Why is it sometimes hard to forgive others?",
+    "category": "4"
+},
+{
+    "question": "How well do you receive criticism from others? Why do most people fear honest feedback and evaluation?",
+    "category": "4"
+},
+{
+    "question": "What does this quote mean? 'He is no fool who gives what he cannot keep, to gain what he cannot lose.? (Jim Elliot)",
+    "category": "4"
+},
+{
+    "question": "Do you think the end or the means is most important? Explain.",
+    "category": "4"
+},
+{
+    "question": "When is it necessary to take the law into your own hands?",
+    "category": "4"
+},
+{
+    "question": "What is the basis of your standard of right and wrong?",
+    "category": "4"
+},
+{
+    "question": "What's the best way to win back an estranged friend?",
+    "category": "4"
+},
+{
+    "question": "Which is greater, love of one's parents, one's children, one's spouse, or one's friends? Explain your answer.",
+    "category": "4"
+},
+{
+    "question": "How would you define \u2018freedom'?",
+    "category": "4"
+},
+{
+    "question": "Why do some people resist living lives of moral integrity?",
+    "category": "4"
+},
+{
+    "question": "Is cloning a sign of progress? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "What is the secret to being content in all circumstances?",
+    "category": "4"
+},
+{
+    "question": "If you did something wrong, would it make any difference that you did so unintentionally? Would you still be morally responsible? Explain.",
+    "category": "4"
+},
+{
+    "question": "How do you define 'true love\u2019?",
+    "category": "4"
+},
+{
+    "question": "How do you suggest overcoming negative self-talk?",
+    "category": "4"
+},
+{
+    "question": "Is there such a thing as a 'just war\u2019? Explain.",
+    "category": "4"
+},
+{
+    "question": "What's your position on capital punishment?",
+    "category": "4"
+},
+{
+    "question": "What is the meaning of life?",
+    "category": "4"
+},
+{
+    "question": "Why is life so hard? Why is life so complicated?",
+    "category": "4"
+},
+{
+    "question": "What's unforgivable?",
+    "category": "4"
+},
+{
+    "question": "If accumulation of money doesn't bring lasting happiness, what does?",
+    "category": "4"
+},
+{
+    "question": "What happens after death?",
+    "category": "4"
+},
+{
+    "question": "What is the difference between an intellectual assent to a set of beliefs and an actual acceptance of those beliefs?",
+    "category": "4"
+},
+{
+    "question": "What's the difference between intelligence and wisdom?",
+    "category": "4"
+},
+{
+    "question": "What's one thing you know for sure?",
+    "category": "4"
+},
+{
+    "question": "What's one regret you live with?",
+    "category": "4"
+},
+{
+    "question": "What do you live in denial about?",
+    "category": "4"
+},
+{
+    "question": "How difficult is it for you to forgive someone who refuses to apologize?",
+    "category": "4"
+},
+{
+    "question": "What's the most serious illness or injury you ever faced?",
+    "category": "4"
+},
+{
+    "question": "How would you prefer to die'quickly without warning or slowly over time?",
+    "category": "4"
+},
+{
+    "question": "What's one conviction you hold that you would be willing to die for?",
+    "category": "4"
+},
+{
+    "question": "What's your most embarrassing moment?",
+    "category": "4"
+},
+{
+    "question": "Where are you going?",
+    "category": "4"
+},
+{
+    "question": "What impossible task are you facing right now?",
+    "category": "4"
+},
+{
+    "question": "What fear are you trying to overcome?",
+    "category": "4"
+},
+{
+    "question": "Would most people describe you as humble or proud? Why?",
+    "category": "4"
+},
+{
+    "question": "Have you ever violated a confidence? Describe what happened.",
+    "category": "4"
+},
+{
+    "question": "If you just found out you had only two weeks to live, what top two or three things would you do? Why?",
+    "category": "4"
+},
+{
+    "question": "What do you suspect people say about you behind your back?",
+    "category": "4"
+},
+{
+    "question": "What scares you the most about the future?",
+    "category": "4"
+},
+{
+    "question": "What traumatic event has changed your life forever?",
+    "category": "4"
+},
+{
+    "question": "What one person in your life do you find the most challenging? Explain.",
+    "category": "4"
+},
+{
+    "question": "What's something about you that no one knows?",
+    "category": "4"
+},
+{
+    "question": "How difficult is it for you to speak the truth, even when it may be hurtful or unpopular?",
+    "category": "4"
+},
+{
+    "question": "What was the hardest era of your life?",
+    "category": "4"
+},
+{
+    "question": "If you died today, who would give your eulogy, and what would be said?",
+    "category": "4"
+},
+{
+    "question": "What one thing do you fear more than any-thing else?",
+    "category": "4"
+},
+{
+    "question": "How afraid of dying are you? Explain.",
+    "category": "4"
+},
+{
+    "question": "How do you explain death?",
+    "category": "4"
+},
+{
+    "question": "What epitaph would you want engraved on your tombstone?",
+    "category": "4"
+},
+{
+    "question": "When you think of really living and not merely existing, what comes to mind?",
+    "category": "4"
+},
+{
+    "question": "How at peace are you with yourself? Explain.",
+    "category": "4"
+},
+{
+    "question": "Would you want to know the date and cause of your death? How would that information change things for you?",
+    "category": "4"
+},
+{
+    "question": "What is the hardest thing you've ever done?",
+    "category": "4"
+},
+{
+    "question": "What do you think is your purpose in life?",
+    "category": "4"
+},
+{
+    "question": "Why are we here?",
+    "category": "4"
+},
+{
+    "question": "If you knew your death could save a stranger's life, would you give up your life? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "What's the most significant loss you'se experienced?",
+    "category": "4"
+},
+{
+    "question": "What's the closest you'se ever come to thinking you didn's deserve to live? Explain.",
+    "category": "4"
+},
+{
+    "question": "How do you know this world is not a dream? Can you prove it?",
+    "category": "4"
+},
+{
+    "question": "Did you ever witness someone die? Describe your thoughts and feelings at that time.",
+    "category": "4"
+},
+{
+    "question": "Do you ever fear \u2018living' as much as \u2018dying?' Explain.",
+    "category": "4"
+},
+{
+    "question": "Was there ever a time when your blood 'ran cold\u2019? Explain.",
+    "category": "4"
+},
+{
+    "question": "How have you dealt with loss in your life?",
+    "category": "4"
+},
+{
+    "question": "Is there such a thing as \u2018destiny'? Why or why not?",
+    "category": "4"
+},
+{
+    "question": "How convinced are you that the sun will rise tomorrow? What makes you so sure?",
+    "category": "4"
+},
+{
+    "question": "Who are you when no one's looking?",
+    "category": "4"
+},
+{
+    "question": "When was the last time you cried? Why?",
+    "category": "4"
+},
+{
+    "question": "On a scale from  to , how happy do you usually feel? Explain.",
+    "category": "4"
+},
+{
+    "question": "What in this world breaks your heart?",
+    "category": "4"
+},
+{
+    "question": "If you had to locate the feeling of 'longing? or 'learning? in your body, where would you say it was?",
+    "category": "4"
+},
+{
+    "question": "Who has loved you more than anyone else in your life?",
+    "category": "4"
+},
+{
+    "question": "What one thing do you wish for more than anything else?",
+    "category": "4"
+},
+{
+    "question": "What do you dream about most often? How do you interpret your dreams?",
+    "category": "4"
+},
+{
+    "question": "What has recently made you depressed?",
+    "category": "4"
+},
+{
+    "question": "Have you ever felt excluded? Explain the situation and how it made you feel.",
+    "category": "4"
+},
+{
+    "question": "Was there ever a time when you were in need and someone met that need? Describe.",
+    "category": "4"
+},
+{
+    "question": "What prevents you from revealing your emotions to others? Give an example.",
+    "category": "4"
+},
+{
+    "question": "When do you feel the loneliest?",
+    "category": "4"
+},
+{
+    "question": "From what do you secretly long to be 'rescued??",
+    "category": "4"
+},
+{
+    "question": "What do you need to feel secure?",
+    "category": "4"
+},
+{
+    "question": "What's weighing heavy on your heart these days?",
+    "category": "4"
+},
+{
+    "question": "Have you ever felt like there was no escape; that your heart was trapped? Describe.",
+    "category": "4"
+},
+{
+    "question": "When have you felt betrayed?",
+    "category": "4"
+},
+{
+    "question": "What part of your heart has never been seen by anyone? Why?",
+    "category": "4"
+},
+{
+    "question": "What do you value most in a friendship?",
+    "category": "4"
+},
+{
+    "question": "What's the best compliment you've ever received?",
+    "category": "4"
+},
+{
+    "question": "What\u2019s something you really resent paying for?",
+    "category": "4"
+},
+{
+    "question": "Do you think that aliens exist?",
+    "category": "4"
+},
+{
+    "question": "What's something that you secretly suspect you are wrong about but are too sure about to investigate?",
+    "category": "4"
+},
+{
+    "question": "What is something you believe that other people think is crazy?",
+    "category": "4"
+},
+{
+    "question": "What is your proudest accomplishment?",
+    "category": "4"
+},
+{
+    "question": "\t1.\tWho is your hero?\n",
+    "category": "4"
+},
+{
+    "question": "Who do you have a hard time taking seriously?",
+    "category": "4"
+},
+{
+    "question": "What was the hardest lesson you\u2019ve had to learn?",
+    "category": "4"
+},
+{
+    "question": "What\u2019s the worst thing that people are proud of?",
+    "category": "4"
+},
+{
+    "question": "Why do you think there are so many different religions in the world?",
+    "category": "5"
+},
+{
+    "question": "Do you think that all the major religions are fundamentally the same or different? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "Do you think religion is an emotional crutch for some people? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What do you think heaven is like?",
+    "category": "5"
+},
+{
+    "question": "What do you think most people think about the Bible?",
+    "category": "5"
+},
+{
+    "question": "What do you think are the most common misconceptions people have about God?",
+    "category": "5"
+},
+{
+    "question": "Do you believe the Bible is actually God's chosen tool for communication to mankind? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you believe in reincarnation? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What do you like most about church, synagogue, or mosque?",
+    "category": "5"
+},
+{
+    "question": "Why does God seem so distant?",
+    "category": "5"
+},
+{
+    "question": "Do you think most people are spiritually attuned or spiritually ignorant?",
+    "category": "5"
+},
+{
+    "question": "What is your attitude toward people who believe differently than you?",
+    "category": "5"
+},
+{
+    "question": "Do you think God exists? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "If God did not exist, what practical difference would that make in our world?",
+    "category": "5"
+},
+{
+    "question": "Is God dead? Explain.",
+    "category": "5"
+},
+{
+    "question": "Why do you think some people are skeptical about the existence of God? Why are others so certain he does exist?",
+    "category": "5"
+},
+{
+    "question": "Is belief in God intellectual suicide? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you think it's possible for anyone to know for sure if there is a God? Explain.",
+    "category": "5"
+},
+{
+    "question": "Why do you think that some form of religious belief is present in virtually every culture?",
+    "category": "5"
+},
+{
+    "question": "What do you like least about religion?",
+    "category": "5"
+},
+{
+    "question": "Do you think religion is necessary? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What are some characteristics you have heard taught about God that you do not believe?",
+    "category": "5"
+},
+{
+    "question": "Do you think religion should be a private matter? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you believe in miracles? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you believe God is actively involved in our world or detached and distant from our world? Explain.",
+    "category": "5"
+},
+{
+    "question": "How reliable do you think the Bible is as a historical document? Explain.",
+    "category": "5"
+},
+{
+    "question": "How would you explain eternity?",
+    "category": "5"
+},
+{
+    "question": "How many different religions have you studied in your lifetime, and which one makes the most sense to you right now? Explain.",
+    "category": "5"
+},
+{
+    "question": "Do you believe in an afterlife? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "How do you think the afterlife will be different from this life?",
+    "category": "5"
+},
+{
+    "question": "How do you 'remember your spirit??",
+    "category": "5"
+},
+{
+    "question": "What does 'being spiritual? mean to you?",
+    "category": "5"
+},
+{
+    "question": "Do you think most, if not all, wars would cease if no religious differences existed? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Are natural disasters God's doing? Explain.",
+    "category": "5"
+},
+{
+    "question": "How often do most people you know think about spiritual issues? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "If God decided to visit the planet right now, what do you think he would say or do?",
+    "category": "5"
+},
+{
+    "question": "Why do you think there are so many disagree-ments over spiritual and religious matters?",
+    "category": "5"
+},
+{
+    "question": "How do you picture the face of God?",
+    "category": "5"
+},
+{
+    "question": "Is your image of God more like that of a 'grandfather,? a \u2018policeman'? or a \u2018mechanic'? Explain.",
+    "category": "5"
+},
+{
+    "question": "What's the central difference between psychology and religion, or do they address the same need in mankind? Explain.",
+    "category": "5"
+},
+{
+    "question": "What about God do you hope is true? Why?",
+    "category": "5"
+},
+{
+    "question": "What's the difference between being moral and being spiritual?",
+    "category": "5"
+},
+{
+    "question": "Do you think that scientific discoveries will eventually eliminate mankind's \u2018need' for God? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What's the greatest spiritual advice you have ever received?",
+    "category": "5"
+},
+{
+    "question": "Given the pros and cons associated with deeply held religious beliefs, do you think that \u2018religion' overall is a positive or a negative thing?",
+    "category": "5"
+},
+{
+    "question": "Do you believe that a spiritual realm exists outside of what can be perceived by the five senses? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "How would you define \u2018faith'?",
+    "category": "5"
+},
+{
+    "question": "Should faith in God be \u2018blind\u2019 or should it require evidence? Explain.",
+    "category": "5"
+},
+{
+    "question": "What does it mean to take a 'leap of faith\u2019? Have you ever taken one?",
+    "category": "5"
+},
+{
+    "question": "Do you believe it is possible to encounter God in a personal way? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What, if anything, is the Bible good for?",
+    "category": "5"
+},
+{
+    "question": "What determines how much trust you will place in a spiritual authority?",
+    "category": "5"
+},
+{
+    "question": "Do you think a person, in order to be a certain religion, must be converted into that religion, born into it, or both?",
+    "category": "5"
+},
+{
+    "question": "How much influence has your family heritage had on your ultimate religious beliefs? Explain.",
+    "category": "5"
+},
+{
+    "question": "What is it that bothers you the most about religious fanatics?",
+    "category": "5"
+},
+{
+    "question": "What are the positives and negatives of joining a small group to discuss spiritual issues?",
+    "category": "5"
+},
+{
+    "question": "What did you like and dislike about any church services you've experienced?",
+    "category": "5"
+},
+{
+    "question": "Why did God start it all?",
+    "category": "5"
+},
+{
+    "question": "If you could design your own church service, what would it look like?",
+    "category": "5"
+},
+{
+    "question": "How many different paths do you think there are to God? Explain.",
+    "category": "5"
+},
+{
+    "question": "What is the difference between \u2018faith' and \u2018religion\u2019?",
+    "category": "5"
+},
+{
+    "question": "Why does merely talking about Christianity often muster up negative images and angry reactions?",
+    "category": "5"
+},
+{
+    "question": "Generally speaking, does Christianity, with its apparent emphasis on sin, hell, and judgment, dwell too much on the negative? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "What are the various ways people attempt to earn God's forgiveness or favor?",
+    "category": "5"
+},
+{
+    "question": "What is one thing you no longer believe about God that you believed when you were younger? What changed your mind?",
+    "category": "5"
+},
+{
+    "question": "What's one benefit the world has gained as a result of Jesus Christ's life and teaching ministry?",
+    "category": "5"
+},
+{
+    "question": "What's one benefit the world has gained as a result of Muhammad's life and teaching ministry?",
+    "category": "5"
+},
+{
+    "question": "What's one benefit the world has gained as a result of Buddha's life and teaching ministry?",
+    "category": "5"
+},
+{
+    "question": "What's your basis for deciding which, if any, religion is right for you?",
+    "category": "5"
+},
+{
+    "question": "Do you believe there is anything to the 'power of prayer\u2019? Explain.",
+    "category": "5"
+},
+{
+    "question": "From where does evil come?",
+    "category": "5"
+},
+{
+    "question": "Why is there so much evil in the world?",
+    "category": "5"
+},
+{
+    "question": "What do you think are some methods God uses to communicate to people?",
+    "category": "5"
+},
+{
+    "question": "Do you believe it's possible for people to communicate with the dead?",
+    "category": "5"
+},
+{
+    "question": "Do you believe an evil spiritual being, such as the Devil, exists? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What is it about the Bible that most confuses you?",
+    "category": "5"
+},
+{
+    "question": "What is your position concerning the concept of hell?",
+    "category": "5"
+},
+{
+    "question": "If God can do anything, can he make a rock so heavy he cannot lift it? Explain.",
+    "category": "5"
+},
+{
+    "question": "How good do you have to be to get into heaven?",
+    "category": "5"
+},
+{
+    "question": "Can a person know for sure that he or she is going to heaven? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you think all religions lead to God? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What's the difference between tolerance of all religions and validation of all religions?",
+    "category": "5"
+},
+{
+    "question": "Do you think that in order for one religion to be totally true, all other religions must be completely false? Explain.",
+    "category": "5"
+},
+{
+    "question": "Do you think that ultimately, no matter what we believe about God, we will all end up at the same place as long as we are sincere? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "If the world contained no religion, how might things be different?",
+    "category": "5"
+},
+{
+    "question": "How do you react to a religious person who attempts to proselytize you?",
+    "category": "5"
+},
+{
+    "question": "How do you define a cult?",
+    "category": "5"
+},
+{
+    "question": "Can anyone know for sure that his or her religion is right? Explain.",
+    "category": "5"
+},
+{
+    "question": "What is your definition of a miracle?",
+    "category": "5"
+},
+{
+    "question": "If a bona fide miracle were to occur in your life, do you think that would convince you that some kind of intelligent Supreme Being exists? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Why do you think most people find it difficult, if not impossible, to believe in miracles?",
+    "category": "5"
+},
+{
+    "question": "Do you think angels and demons exist? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "What do you think angels are like, and what is their function here on earth?",
+    "category": "5"
+},
+{
+    "question": "Do you believe you have a guardian angel?",
+    "category": "5"
+},
+{
+    "question": "What is the greatest commandment?",
+    "category": "5"
+},
+{
+    "question": "What is the greatest sin?",
+    "category": "5"
+},
+{
+    "question": "Why do some people become uncomfortable discussing spiritual matters?",
+    "category": "5"
+},
+{
+    "question": "What factors have most influenced your current beliefs about God?",
+    "category": "5"
+},
+{
+    "question": "What does God want from us?",
+    "category": "5"
+},
+{
+    "question": "If you could ask God to do any three things for you, and you knew he would do them, what would you ask him to do?",
+    "category": "5"
+},
+{
+    "question": "When and how often do you pray? What motivates you to pray.",
+    "category": "5"
+},
+{
+    "question": "On a scale from 1 to 10, how close to God do you feel? Explain.",
+    "category": "5"
+},
+{
+    "question": "Rate the level of intensity you have about wanting to know God? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "If a dimmer switch could represent your understanding of Christianity, how bright would your light be?",
+    "category": "5"
+},
+{
+    "question": "Has there ever been a time you were convinced you received direction from God? Describe it.",
+    "category": "5"
+},
+{
+    "question": "How do you discern God's direction for your life?",
+    "category": "5"
+},
+{
+    "question": "How has your belief or disbelief in God affected your life?",
+    "category": "5"
+},
+{
+    "question": "What fears do you have about God?",
+    "category": "5"
+},
+{
+    "question": "What makes it difficult for you to trust God?",
+    "category": "5"
+},
+{
+    "question": "If you were to explain to a friend what it means to know God personally, what would you say?",
+    "category": "5"
+},
+{
+    "question": "With everything in this universe that could consume God's time and energy, how much do you think God really cares about what happens in your life?",
+    "category": "5"
+},
+{
+    "question": "What is your greatest fear about what you'd be like if God were leading your life?",
+    "category": "5"
+},
+{
+    "question": "Why doesn't God do something about evil and suffering?",
+    "category": "5"
+},
+{
+    "question": "When have you experienced a situation in which you believe God intervened? Describe it.",
+    "category": "5"
+},
+{
+    "question": "What is your reaction to the Bible's claim that Jesus is the only way to God?",
+    "category": "5"
+},
+{
+    "question": "What has been your biggest obstacle to spiritual growth?",
+    "category": "5"
+},
+{
+    "question": "Where are you in your spiritual journey?",
+    "category": "5"
+},
+{
+    "question": "Using the compartments of a car, how would you describe where God fits into your life (trunk, driver's seat, back seat, glove compartment, passenger seat, etc.)? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "What prevents you from taking steps on your spiritual journey now?",
+    "category": "5"
+},
+{
+    "question": "Who will be in heaven? Why?",
+    "category": "5"
+},
+{
+    "question": "If God were to step in and wipe out every trace of evil, what would that do to the human population? Where would that leave you?",
+    "category": "5"
+},
+{
+    "question": "When have you seen 'hell? here on earth?",
+    "category": "5"
+},
+{
+    "question": "Why do you suppose God doesn't just eliminate Satan now?",
+    "category": "5"
+},
+{
+    "question": "Where was God when terrorists attacked the World Trade Center and the Pentagon?",
+    "category": "5"
+},
+{
+    "question": "If you were to die today, would you go to heaven? On what do you base your answer?",
+    "category": "5"
+},
+{
+    "question": "If you could prove beyond a reasonable doubt that God exists, do you think you would seek out a relationship with him?",
+    "category": "5"
+},
+{
+    "question": "If you believed in the God of the Bible, do you think it would impact the way you lived? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Have you ever had something you would call a 'spiritual experience\u2019? Describe the situation.",
+    "category": "5"
+},
+{
+    "question": "What religious issues are you struggling with these days?",
+    "category": "5"
+},
+{
+    "question": "What kinds of things do you pray about most frequently?",
+    "category": "5"
+},
+{
+    "question": "What personal religious experiences have had the most profound impact on you?",
+    "category": "5"
+},
+{
+    "question": "How certain are you that your current belief about God is correct? What would change that?",
+    "category": "5"
+},
+{
+    "question": "What do you think is the difference between a religious person who makes it into heaven and one who does not?",
+    "category": "5"
+},
+{
+    "question": "Do you think it is possible for a man to gain the whole world and yet lose his soul? Explain.",
+    "category": "5"
+},
+{
+    "question": "What does it mean to be made in the 'image of God\u2019?",
+    "category": "5"
+},
+{
+    "question": "What would you suggest would be the best way for God to show his love?",
+    "category": "5"
+},
+{
+    "question": "What's your favorite Bible verse and why?",
+    "category": "5"
+},
+{
+    "question": "What's the most reassuring Bible promise you know? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "Was there ever a time when you sincerely wanted to know God's will regarding a decision you needed to make? What was the outcome? Describe the situation.",
+    "category": "5"
+},
+{
+    "question": "What season are you currently in with regard to your spiritual life?",
+    "category": "5"
+},
+{
+    "question": "What surprises you most about Jesus Christ?",
+    "category": "5"
+},
+{
+    "question": "According to your understanding, how would you summarize the central message of Christianity?",
+    "category": "5"
+},
+{
+    "question": "What's something most of your friends don's know about your spiritual side?",
+    "category": "5"
+},
+{
+    "question": "What do you think God would say to you right now?",
+    "category": "5"
+},
+{
+    "question": "What do you think God will say to you when you die?",
+    "category": "5"
+},
+{
+    "question": "Why do you think Jesus was born? Why were you born?",
+    "category": "5"
+},
+{
+    "question": "What's one thing about the existence (or nonexistence) of God that scares you?",
+    "category": "5"
+},
+{
+    "question": "The Bible says, 'God is love\u2019. What does that mean to you?",
+    "category": "5"
+},
+{
+    "question": "Who is Jesus Christ to you?",
+    "category": "5"
+},
+{
+    "question": "What's the first question you will have for God when you die?",
+    "category": "5"
+},
+{
+    "question": "Who's the closest thing to a spiritual mentor to you?",
+    "category": "5"
+},
+{
+    "question": "How has God demonstrated his love to you?",
+    "category": "5"
+},
+{
+    "question": "What has produced the greatest spiritual growth in your life?",
+    "category": "5"
+},
+{
+    "question": "Have you ever prayed a prayer of desperation? Describe the situation.",
+    "category": "5"
+},
+{
+    "question": "How have you been disillusioned by religion?",
+    "category": "5"
+},
+{
+    "question": "How comfortable are you discussing spiritual things with others?",
+    "category": "5"
+},
+{
+    "question": "How is it possible that the death of one (Jesus Christ) overcomes (forgives) the sins of many (the whole human race)?",
+    "category": "5"
+},
+{
+    "question": "Do you think it is possible to have a false sense of security about your eternal destiny? Explain.",
+    "category": "5"
+},
+{
+    "question": "What do you think it means to be 'born again?? What'b your knee-jerk reaction to this term?",
+    "category": "5"
+},
+{
+    "question": "Is there something spiritual missing in your life? Explain.",
+    "category": "5"
+},
+{
+    "question": "Do you agree with this statement: 'Going to church doesn't make you a Christian any more than going to a garage makes you an automobile? (Billy Sunday)? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "How would you define sin?",
+    "category": "5"
+},
+{
+    "question": "What are the repercussions of sin, if any?",
+    "category": "5"
+},
+{
+    "question": "Do you think it is possible to be indifferent or neutral toward God without offending him?",
+    "category": "5"
+},
+{
+    "question": "What is your biggest personal spiritual dilemma or challenge?",
+    "category": "5"
+},
+{
+    "question": "What do you think was the purpose of Jesus Christ's death?",
+    "category": "5"
+},
+{
+    "question": "What reasons do you think Christianity gives for its assertion that Jesus is the only way to God?",
+    "category": "5"
+},
+{
+    "question": "In what ways is the Christian life difficult or impossible to live?",
+    "category": "5"
+},
+{
+    "question": "How has God changed you?",
+    "category": "5"
+},
+{
+    "question": "What do you think God's attitude is toward you?",
+    "category": "5"
+},
+{
+    "question": "Do you think becoming a Christian is an ongoing process, something that happens at a specific point in time, or a combination of the two? Give reasons for your answer.",
+    "category": "5"
+},
+{
+    "question": "Why should God let you into heaven?",
+    "category": "5"
+},
+{
+    "question": "Do you think God has ever used pain and suffering to get your attention? If so, what was he trying to get across to you?",
+    "category": "5"
+},
+{
+    "question": "How confident are you about what will happen to you in the afterlife? Explain.",
+    "category": "5"
+},
+{
+    "question": "Do you have any fears about being wrong about your spiritual beliefs? Explain.",
+    "category": "5"
+},
+{
+    "question": "If you were face-to-face with Jesus, what would he say to you? Give a reason for your answer.",
+    "category": "5"
+},
+{
+    "question": "Can hell, God's justice, and God's love all be real at the same time? Explain your answer.",
+    "category": "5"
+},
+{
+    "question": "How comfortable would you feel about praying out loud with someone? Why?",
+    "category": "5"
+},
+{
+    "question": "How do you distinguish God's voice from your own thoughts?",
+    "category": "5"
+},
+{
+    "question": "What miracle do you wish God would perform right now?",
+    "category": "5"
+},
+{
+    "question": "What's one doubt you have regarding the existence of a Supreme Being?",
+    "category": "5"
+},
+{
+    "question": "What would Jesus do if he were in your shoes?",
+    "category": "5"
+},
+{
+    "question": "When have you experienced the closest thing to a miracle? Describe it.",
+    "category": "5"
+},
+{
+    "question": "If you were to identify someone as a Christian, what definitive factors would you look for to support that claim?",
+    "category": "5"
+},
+{
+    "question": "Have you ever meditated for spiritual purposes? If so, describe your experience.",
+    "category": "5"
+},
+{
+    "question": "Have you ever been baptized? What does the sacrament of baptism mean to you?",
+    "category": "5"
+},
+{
+    "question": "How do you 'feed your spirit\u2019?",
+    "category": "5"
+},
+{
+    "question": "What's the closest you'se come to having an encounter with God? Describe it.",
+    "category": "5"
+},
+{
+    "question": "To what extent is your view of God influenced by your view of your father?",
+    "category": "5"
+},
+{
+    "question": "For what are you most thankful to God?",
+    "category": "5"
+},
+{
+    "question": "In your opinion, is the Christian message mostly 'good news? or mostly 'gad news?? Explain your response.",
+    "category": "5"
+},
+{
+    "question": "When was a prayer of yours answered? Tell about it.",
+    "category": "5"
+},
+{
+    "question": "How frequently, if ever, do you read the Bible? What motivates you to read the Bible?",
+    "category": "5"
+},
+{
+    "question": "What's one thing about God you don's understand?",
+    "category": "5"
+},
+{
+    "question": "Do you make comparisons with others on a spiritual level? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "How would you describe your own moral condition?",
+    "category": "5"
+},
+{
+    "question": "Do you believe sin causes a gap between God and you? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you ever become angry with God when things go wrong? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "Do you find it easy to ignore or avoid facing up to deep spiritual matters? Why or why not?",
+    "category": "5"
+},
+{
+    "question": "In what ways do your religious beliefs impact the way you live your life?",
+    "category": "5"
+},
+{
+    "question": "If you could ask God one question you knew he would answer right away, what would it be?",
+    "category": "5"
+},
+{
+    "question": "What do you hope to discover beyond the grave?",
+    "category": "5"
+}
+]
